@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gayatri vilas yadav
-- 👀 I’m interested in full stack developement in java
-- 🌱 I’m currently learning full stack developement course
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Data science 
 - 📫 How to reach me- gayatriy594@gmail.com
-- 💬 Ask me about- react.js , Java, javaScript
+- 💬 Ask me about- python, statistics, excel, Machine learning, mysql
 
 <!---
 Thecreator1502/Thecreator1502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
